@@ -48,7 +48,7 @@ Gru, the mob boss, wants to test out some array methods with callbacks. Let's go
 ### forEach
 
 First, he wants to test out `forEach` to check who's present. So as he goes down the array of minions, they should `console.log` that they're here.
-
+/*complete*/
 <details><summary><strong>Expected output:</strong></summary><p>
   
    ```js
